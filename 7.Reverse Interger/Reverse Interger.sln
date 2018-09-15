@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2016
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Reverse Interger", "Reverse Interger\Reverse Interger.vcxproj", "{C8530AA0-69E2-4181-8B93-398DC7195F5F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C8530AA0-69E2-4181-8B93-398DC7195F5F}.Debug|x64.ActiveCfg = Debug|x64
+		{C8530AA0-69E2-4181-8B93-398DC7195F5F}.Debug|x64.Build.0 = Debug|x64
+		{C8530AA0-69E2-4181-8B93-398DC7195F5F}.Debug|x86.ActiveCfg = Debug|Win32
+		{C8530AA0-69E2-4181-8B93-398DC7195F5F}.Debug|x86.Build.0 = Debug|Win32
+		{C8530AA0-69E2-4181-8B93-398DC7195F5F}.Release|x64.ActiveCfg = Release|x64
+		{C8530AA0-69E2-4181-8B93-398DC7195F5F}.Release|x64.Build.0 = Release|x64
+		{C8530AA0-69E2-4181-8B93-398DC7195F5F}.Release|x86.ActiveCfg = Release|Win32
+		{C8530AA0-69E2-4181-8B93-398DC7195F5F}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DCE83DD4-7BA2-48CF-AF14-2020E4C708A6}
+	EndGlobalSection
+EndGlobal

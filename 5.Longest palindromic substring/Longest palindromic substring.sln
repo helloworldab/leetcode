@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2016
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Longest palindromic substring", "Longest palindromic substring\Longest palindromic substring.vcxproj", "{16E56887-E2BC-4C57-BE6B-895697581ABE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16E56887-E2BC-4C57-BE6B-895697581ABE}.Debug|x64.ActiveCfg = Debug|x64
+		{16E56887-E2BC-4C57-BE6B-895697581ABE}.Debug|x64.Build.0 = Debug|x64
+		{16E56887-E2BC-4C57-BE6B-895697581ABE}.Debug|x86.ActiveCfg = Debug|Win32
+		{16E56887-E2BC-4C57-BE6B-895697581ABE}.Debug|x86.Build.0 = Debug|Win32
+		{16E56887-E2BC-4C57-BE6B-895697581ABE}.Release|x64.ActiveCfg = Release|x64
+		{16E56887-E2BC-4C57-BE6B-895697581ABE}.Release|x64.Build.0 = Release|x64
+		{16E56887-E2BC-4C57-BE6B-895697581ABE}.Release|x86.ActiveCfg = Release|Win32
+		{16E56887-E2BC-4C57-BE6B-895697581ABE}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BDF8A044-4796-4499-834E-9C25E3EFAAD1}
+	EndGlobalSection
+EndGlobal
