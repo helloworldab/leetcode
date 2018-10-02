@@ -1,0 +1,5 @@
+﻿  32. Longest Valid Parentheses.cpp
+g:\my_project\vs2015\leetcode\32. longest valid parentheses\32. longest valid parentheses\32. longest valid parentheses.cpp(12): warning C4018: “<”: 有符号/无符号不匹配
+g:\my_project\vs2015\leetcode\32. longest valid parentheses\32. longest valid parentheses\32. longest valid parentheses.cpp(19): warning C4018: “<”: 有符号/无符号不匹配
+g:\my_project\vs2015\leetcode\32. longest valid parentheses\32. longest valid parentheses\32. longest valid parentheses.cpp(21): warning C4018: “<”: 有符号/无符号不匹配
+  32. Longest Valid Parentheses.vcxproj -> G:\my_project\vs2015\leetcode\32. Longest Valid Parentheses\Debug\32. Longest Valid Parentheses.exe
