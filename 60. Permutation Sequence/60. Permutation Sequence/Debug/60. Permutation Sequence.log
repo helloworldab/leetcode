@@ -1,0 +1,4 @@
+﻿  60. Permutation Sequence.cpp
+g:\my_project\vs2015\leetcode\60. permutation sequence\60. permutation sequence\60. permutation sequence.cpp(28): warning C4018: “<”: 有符号/无符号不匹配
+g:\my_project\vs2015\leetcode\60. permutation sequence\60. permutation sequence\60. permutation sequence.cpp(18): warning C4101: “temp2”: 未引用的局部变量
+  60. Permutation Sequence.vcxproj -> G:\my_project\vs2015\leetcode\60. Permutation Sequence\Debug\60. Permutation Sequence.exe

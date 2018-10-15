@@ -1,0 +1,5 @@
+﻿  56. Merge Intervals.cpp
+g:\my_project\vs2015\leetcode\56. merge intervals\56. merge intervals\56. merge intervals.cpp(66): warning C4018: “<”: 有符号/无符号不匹配
+g:\my_project\vs2015\leetcode\56. merge intervals\56. merge intervals\56. merge intervals.cpp(68): warning C4018: “<”: 有符号/无符号不匹配
+g:\my_project\vs2015\leetcode\56. merge intervals\56. merge intervals\56. merge intervals.cpp(75): warning C4018: “<”: 有符号/无符号不匹配
+  56. Merge Intervals.vcxproj -> G:\my_project\vs2015\leetcode\56. Merge Intervals\Debug\56. Merge Intervals.exe
